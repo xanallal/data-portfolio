@@ -68,5 +68,4 @@ How to run
 • All visualizations are generated automatically.
 
 Author
-
 Nadia Allal. Data Analyst Trainee
