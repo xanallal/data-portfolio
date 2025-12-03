@@ -4,56 +4,37 @@ My first data analytics projects
 Data Portfolio – E-Commerce Delivery & Customer Behavior (Brazil)
 
 Project Description
-
 This project analyzes an e-commerce dataset to understand delivery efficiency, customer behavior, and product trends across Brazil. The goal is to identify logistical bottlenecks, seasonal demand patterns, and customer purchasing preferences.
 
 Tools Used
-
 • Python (Pandas, Matplotlib, Seaborn)
-
 • Jupyter Notebook (Google Colab)
-
 • Tableau Public for dashboard visualization
 
 Dataset
-
 Source: Kaggle – E-commerce Orders & Supply Chain Dataset
-
 Data includes orders, products, customers, payments, delivery dates, and locations.
-
 Main Analyses
 • Delivery time distribution
-
 • Average delivery time by product category
-
 • Delivery success rate by region and time
-
 • Customer order frequency
-
 • Top product categories
-
 • Payment method preferences
-
 • Geographic analysis by Brazilian states
 
 Key Insights
 • Most deliveries occur within 5–15 days, with extreme delays in remote regions
-
 • Toys are the most sold product category
-
 • Credit card is the dominant payment method
-
 • São Paulo dominates e-commerce activity
-
 • Seasonal peaks occur during late 2017
 
 Google Colab Notebook (Python) link:
 https://colab.research.google.com/drive/1VJFBhWQlw8blvQHPwwjvhNqLAZQ7l2JZ
 
 Dashboard
-
 Interactive Tableau dashboard link:
-
 https://public.tableau.com/app/profile/nadia.allal/viz/E-CommerceInsights/Dashboard2?publish=yes
 
 Business Questions
