@@ -44,11 +44,11 @@ Business Questions
 • How does delivery performance evolve over time?
 
 Results
-• Average delivery time is around 12 days.
-• Southeast region has the highest order volume.
-• Credit card is the main payment method.
-• Toys is the top-selling category.
-• Strong peak in sales at the end of 2017.
+• ⏱️ Average delivery time: 12.37 days.
+• 📦 Highest order volume: Southeast region.
+• 💳 Main payment method: Credit card with 73.7% of orders.
+• 🧸 Top-selling category: Toys with over 67,000 orders.
+• 📈 Sales peak: Q4 2017 with the highest monthly growth.
 
 How to run
 • Open the Google Colab notebook with the link in this README.
@@ -57,4 +57,4 @@ How to run
 
 Author
 Nadia Allal
-Data Analyst Trainee
+Aspiring Data Analyst
