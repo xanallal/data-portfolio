@@ -49,15 +49,15 @@ Business Questions
 
 Results
 
-• ⏱️ Average delivery time: 12.37 days.
+• Average delivery time: 12.37 days.
 
-• 📦 Highest order volume: Southeast region.
+• Highest order volume: Southeast region.
 
-• 💳 Main payment method: Credit card with 73.7% of orders.
+• Main payment method: Credit card with 73.7% of orders.
 
-• 🧸 Top-selling category: Toys with over 67,000 orders.
+• Top-selling category: Toys with over 67,000 orders.
 
-• 📈 Sales peak: Q4 2017 with the highest monthly growth.
+• Sales peak: Q4 2017 with the highest monthly growth.
 
 How to run
 
@@ -69,5 +69,4 @@ How to run
 
 Author
 
-Nadia Allal
-Aspiring Data Analyst
+Nadia Allal. Data Analyst Trainee
