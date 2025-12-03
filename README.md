@@ -37,6 +37,24 @@ Dashboard
 Interactive Tableau dashboard link:
 https://public.tableau.com/app/profile/nadia.allal/viz/E-CommerceInsights/Dashboard2?publish=yes
 
+Business Questions
+• Which regions have the longest delivery times?
+• Which product categories generate the most orders?
+• Which payment method is used the most?
+• How does delivery performance evolve over time?
+
+Results
+• Average delivery time is around 12 days.
+• Southeast region has the highest order volume.
+• Credit card is the main payment method.
+• Toys is the top-selling category.
+• Strong peak in sales at the end of 2017.
+
+How to run
+• Open the Google Colab notebook with the link in this README.
+• Run the notebook cells from top to bottom.
+• All visualizations are generated automatically.
+
 Author
 Nadia Allal
 Data Analyst Trainee
